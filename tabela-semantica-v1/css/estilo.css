@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    color: black;
+}
+
+table {
+    text-align: center;
+    color: black;
+    background-color: khaki;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 7px;
+    width: 200px;
+}
